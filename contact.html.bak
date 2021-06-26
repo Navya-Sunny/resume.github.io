@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+ 
+  <title>Contact info</title>
+ </head>
+ <body>
+  <h3>Gmail ID:</h3>
+  <label> navya190899@gmail.com</label>
+  <h3>Mobile Number:</h3>
+  <label>+91 6309576056</label>
+  <h3>Address:</h3>
+  <label>6-10-120/A,Isukupalli,
+  <BR> Repalle,Guntur Dist,
+  <br>Andhra Pradesh.</label>
+  <br></br>
+  <a href="resume.html" target="self">
+  <input type="Button" value="Back"></input></a>
+ </body>
+</html>
